@@ -1,4 +1,3 @@
-# hello-world
 Repository
 
-This is my <strong><em> first line </strong></em>
+This is my <strong><em> first line. </strong></em>
