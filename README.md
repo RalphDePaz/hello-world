@@ -1,10 +1,4 @@
 # hello-world
 Repository
 
-```
-{
-  "firstName": "John Ralph",
-  "lastName": "De Paz",
-  "age": 20
-}
-```
+This is my <strong><em> first line </strong></em>
